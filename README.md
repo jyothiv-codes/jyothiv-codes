@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning on Machine learning, Web development and RPA<br>I am passionate about building efficient software and IT solutions<br>Ask me about enterprise automation, machine learning, master’s life <br> I write about my learnings and journey on LinkedIn <br>
+I am passionate about building efficient software and IT solutions<br>Ask me about enterprise automation/RPA, machine learning, web development, and life during master's <br> I write about my learnings and journey on LinkedIn <br>
 
 
 ## 🌐 Socials:
