@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate about building efficient software and IT solutions<br>Ask me about enterprise automation/RPA, machine learning, web development, and life during master's <br> I write about my learnings and journey on LinkedIn <br>
+I am passionate about building efficient software and IT solutions<br>Ask me about web development, enterprise automation/RPA, machine learning, and life during master's <br> I write about my learnings and journey on LinkedIn <br>
 
 
 ## 🌐 Socials:
